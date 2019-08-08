@@ -1,0 +1,5 @@
+echo"#Queenville">>README.md
+git init
+git add README.md
+git remote add origin http://github.com/Teresa-ops/Queenville.git
+git push -u origin master
